@@ -4,7 +4,7 @@ import { INotificationPayload } from '../interfaces/notification.interface';
 import axios from 'axios';
 
 const ALERT_URL =
-  'https://ping.telex.im/v1/webhooks/0195349e-5223-76a4-8b03-4a7374921ab0';
+  'https://ping.telex.im/v1/webhooks/01953a1e-61a9-73f9-8ee6-e3398e183701';
 class NotificationService {
   // Private method to create and initialize a worker
   private static createWorker(
